@@ -12,23 +12,4 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 
 
-## News
-
-- **[Jun. 2024]** Large model for time series ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available!
-- **[Jan. 2024]** Multivariate deep forecaster ([iTransformer](https://github.com/thuml/iTransformer))  was accepted as **ICLR 2024 Splotlight**.
-
-
-
-
-
-
-
-
-## Education
-
-* *Ph.D.* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present.
-* *Second Degree* Bachelor in Economics ([School of Economics and Management, Tsinghua University](https://www.sem.tsinghua.edu.cn/)), 2018 to 2021.
-* *Bachelor* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present, 2017 to 2021.
-
-
 
