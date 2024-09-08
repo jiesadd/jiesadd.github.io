@@ -17,7 +17,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 - **[Jun. 2024]** Large model for time series ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available!
 - **[Jan. 2024]** Multivariate deep forecaster ([iTransformer](https://github.com/thuml/iTransformer))  was accepted as **ICLR 2024 Splotlight**.
 
-{% include_relative _includes/publications.md %}
+
 
 
 
